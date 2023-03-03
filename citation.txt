@@ -1,0 +1,8 @@
+@article{jiang2020no,
+  title={No-reference Screen Content Image Quality Assessment Based on Multi-region Features},
+  author={Jiang, Xuhao and Shen, Liquan and Yu, Liangwei and Jiang, Mingxing and Feng, Guorui},
+  journal={Neurocomputing},
+  volume={386},
+  pages={30--41},
+  year={2020},
+}
