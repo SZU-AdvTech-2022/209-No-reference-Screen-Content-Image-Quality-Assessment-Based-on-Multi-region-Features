@@ -1,0 +1,8 @@
+@article{REPO-210,
+    author = "Jiang, Xuhao and Shen, Liquan and Yu, Liangwei and Jiang, Mingxing and Feng, Guorui",
+    journal = "Neurocomputing",
+    pages = "30--41",
+    title = "{No-reference Screen Content Image Quality Assessment Based on Multi-region Features}",
+    volume = "386",
+    year = "2020"
+}
